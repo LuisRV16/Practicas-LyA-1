@@ -1,0 +1,13 @@
+PROGRAM suma;
+
+VAR n1;
+VAR n2;
+VAR rs;
+
+BEGIN
+  n1 := 2;
+  n2 := 3;
+
+  rs := n1 + n2;
+
+END.
